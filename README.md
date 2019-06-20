@@ -25,6 +25,8 @@
 
 - Build Pipeline script from SCM
 
+![](http://i68.tinypic.com/2pozl6v.png)
+
 
 **Links**:
 - [Game](http://localhost:8777)
