@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    {% if output.isdigit() %}
+        <h1>The score is <div id="score">{{ output }}</div></h1>
+    {% else %}
+        <h1><div style="color:red">{{ output }}</div></h1>
+    {% endif %}
+{% endblock content %}

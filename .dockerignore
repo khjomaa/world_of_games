@@ -1,0 +1,5 @@
+.git
+*.iml
+venv/
+__pycache__/
+*.pyc
